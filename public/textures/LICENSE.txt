@@ -1,0 +1,6 @@
+All textures in this folder are from Poly Haven (https://polyhaven.com) and are licensed CC0 1.0 (public domain).
+Assets: leafy_grass, forest_ground_04, rock_face, coast_sand_01, snow_02, aerial_grass_rock, rocky_terrain_02,
+medieval_blocks_02, clay_roof_tiles_02, brown_leather (1k JPG diffuse / OpenGL normal / displacement maps).
+Added for towns and dragon hide: white_plaster_rough_01, thatch_roof_angled, dark_planks, cobblestone_floor_04, mud_cracked_dry_03, beam_wall_01.
+
+rock_boulder_dry, rock_face_03 — Poly Haven (https://polyhaven.com), CC0. Added 2026-11-13 for the limestone crags (crag_detail.py height source, rocks.js surface).

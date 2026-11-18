@@ -1,0 +1,55 @@
+{
+ "hl_0": {
+  "tris": 158322,
+  "mid": "hl_0_mid",
+  "lo": "hl_0_lo",
+  "lo_tris": 12664
+ },
+ "hl_1": {
+  "tris": 229094,
+  "mid": "hl_1_mid",
+  "lo": "hl_1_lo",
+  "lo_tris": 18327
+ },
+ "hl_2": {
+  "tris": 131108,
+  "mid": "hl_2_mid",
+  "lo": "hl_2_lo",
+  "lo_tris": 10487
+ },
+ "hl_3": {
+  "tris": 125384,
+  "mid": "hl_3_mid",
+  "lo": "hl_3_lo",
+  "lo_tris": 10029
+ },
+ "hl_4": {
+  "tris": 122030,
+  "mid": "hl_4_mid",
+  "lo": "hl_4_lo",
+  "lo_tris": 9762
+ },
+ "hl_5": {
+  "tris": 99160,
+  "mid": "hl_5_mid",
+  "lo": "hl_5_lo",
+  "lo_tris": 7932
+ },
+ "hl_6": {
+  "tris": 167844,
+  "mid": "hl_6_mid",
+  "lo": "hl_6_lo",
+  "lo_tris": 13427
+ },
+ "hl_7": {
+  "tris": 167050,
+  "mid": "hl_7_mid",
+  "lo": "hl_7_lo",
+  "lo_tris": 13364
+ },
+ "_centre": [
+  -1775,
+  600
+ ],
+ "_mode": "geo"
+}

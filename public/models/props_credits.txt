@@ -1,0 +1,18 @@
+Street props (props.glb). Models by other people, adapted (resized, simplified, re-textured into one atlas):
+
+"Medieval Market Asset Pack" by vmatthew (https://sketchfab.com/vmatthew) — CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+  https://sketchfab.com/3d-models/medieval-market-asset-pack-006ffc4ac5f34a1782f567b07e6605f2
+"Medieval Food Stall" by Mateusz Woliński (https://sketchfab.com/jeandiz) — CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+  https://sketchfab.com/3d-models/medieval-food-stall-7d9b2922dd0941dab820c4763078c789
+"Simple Galleon" by Lee Alex Johansson (https://sketchfab.com/lee.johansson) — CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+  https://sketchfab.com/3d-models/simple-galleon-1623189576754058b64d0a026f662b9e
+".Fuse Civilian 1" by Leonardo Carvalho (https://sketchfab.com/livrosparacriancas) — CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+  https://sketchfab.com/3d-models/fuse-civilian-1-6fc4bddf4d364e6b9fa2f050011e03ce
+"Medieval Civilian 3" by Leonardo Carvalho (https://sketchfab.com/livrosparacriancas) — SKETCHFAB Standard (https://sketchfab.com/licenses)
+  https://sketchfab.com/3d-models/medieval-civilian-3-d99ca22f06134e8dab28fdfa75d87f31
+".Fuse Woman 1" by Leonardo Carvalho (https://sketchfab.com/livrosparacriancas) — CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+  https://sketchfab.com/3d-models/fuse-woman-1-c6436897da494b4e8e1f8188aea620c6
+"Medieval poor woman" by carmenpaloma (https://sketchfab.com/carmenpaloma) — CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+  https://sketchfab.com/3d-models/medieval-poor-woman-24db154842a84717bfecea3ace0f7cfa
+
+Built by tools/blender/props_kit.py, wood, stone and thatch from Poly Haven (CC0): stall_c, well, banner, tent, boat, galley, crane, horse

@@ -1,0 +1,66 @@
+{
+ "talus_0": {
+  "tris": 20000,
+  "lods": [
+   "talus_0_l1",
+   "talus_0_l2",
+   "talus_0_l3"
+  ]
+ },
+ "talus_1": {
+  "tris": 20000,
+  "lods": [
+   "talus_1_l1",
+   "talus_1_l2",
+   "talus_1_l3"
+  ]
+ },
+ "talus_2": {
+  "tris": 20000,
+  "lods": [
+   "talus_2_l1",
+   "talus_2_l2",
+   "talus_2_l3"
+  ]
+ },
+ "talus_3": {
+  "tris": 20000,
+  "lods": [
+   "talus_3_l1",
+   "talus_3_l2",
+   "talus_3_l3"
+  ]
+ },
+ "talus_4": {
+  "tris": 20000,
+  "lods": [
+   "talus_4_l1",
+   "talus_4_l2",
+   "talus_4_l3"
+  ]
+ },
+ "talus_5": {
+  "tris": 20000,
+  "lods": [
+   "talus_5_l1",
+   "talus_5_l2",
+   "talus_5_l3"
+  ]
+ },
+ "talus_6": {
+  "tris": 20000,
+  "lods": [
+   "talus_6_l1",
+   "talus_6_l2",
+   "talus_6_l3"
+  ]
+ },
+ "talus_7": {
+  "tris": 20000,
+  "lods": [
+   "talus_7_l1",
+   "talus_7_l2",
+   "talus_7_l3"
+  ]
+ }
+}

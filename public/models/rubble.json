@@ -1,0 +1,66 @@
+{
+ "rubble_0": {
+  "tris": 3000,
+  "lods": [
+   "rubble_0_l1",
+   "rubble_0_l2",
+   "rubble_0_l3"
+  ]
+ },
+ "rubble_1": {
+  "tris": 3000,
+  "lods": [
+   "rubble_1_l1",
+   "rubble_1_l2",
+   "rubble_1_l3"
+  ]
+ },
+ "rubble_2": {
+  "tris": 3000,
+  "lods": [
+   "rubble_2_l1",
+   "rubble_2_l2",
+   "rubble_2_l3"
+  ]
+ },
+ "rubble_3": {
+  "tris": 2998,
+  "lods": [
+   "rubble_3_l1",
+   "rubble_3_l2",
+   "rubble_3_l3"
+  ]
+ },
+ "rubble_4": {
+  "tris": 3000,
+  "lods": [
+   "rubble_4_l1",
+   "rubble_4_l2",
+   "rubble_4_l3"
+  ]
+ },
+ "rubble_5": {
+  "tris": 3000,
+  "lods": [
+   "rubble_5_l1",
+   "rubble_5_l2",
+   "rubble_5_l3"
+  ]
+ },
+ "rubble_6": {
+  "tris": 3000,
+  "lods": [
+   "rubble_6_l1",
+   "rubble_6_l2",
+   "rubble_6_l3"
+  ]
+ },
+ "rubble_7": {
+  "tris": 3000,
+  "lods": [
+   "rubble_7_l1",
+   "rubble_7_l2",
+   "rubble_7_l3"
+  ]
+ }
+}
